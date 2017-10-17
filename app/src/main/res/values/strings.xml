@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestTaskWB</string>
+
+    <string name="startText_Button">Start</string>
+    <string name="readyText_Button">Ready</string>
+</resources>
